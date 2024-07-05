@@ -1,0 +1,22 @@
+{
+  "name": "cypressapi",
+  "version": "1.0.0",
+  "description": "cypress api_testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarniaTu/CypressAPI.git"
+  },
+  "author": "Marina Turbina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarniaTu/CypressAPI/issues"
+  },
+  "homepage": "https://github.com/MarniaTu/CypressAPI#readme",
+  "devDependencies": {
+    "cypress": "^13.13.0"
+  }
+}
